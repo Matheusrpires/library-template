@@ -1,0 +1,9 @@
+playgroud
+testes
+build
+publicar npm
+
+----rd
+
+baixar tangram e afins
+publicar no privado
